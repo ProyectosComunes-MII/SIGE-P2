@@ -1,2 +1,5 @@
-# SIGE-P2
-Repositorio para la práctica 2 de Sistemas Inteligentes para la Gestión de la Empresa del máster en Ingeniería Informática.
+# Sistemas Inteligentes para la Gestión de la Empresa
+
+## Práctica 2. Deep Learning para clasificación de imágenes
+
+### Máster en Ingeniería Informática
